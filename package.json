@@ -1,0 +1,24 @@
+{
+	"name": "sdi-workshop-to-do-list",
+	"version": "1.0.0",
+	"description": "## Requirements",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "live-server ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Adam-Brace/sdi-workshop-To-Do-List.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Adam-Brace/sdi-workshop-To-Do-List/issues"
+	},
+	"homepage": "https://github.com/Adam-Brace/sdi-workshop-To-Do-List#readme",
+	"dependencies": {
+		"live-server": "^1.2.0"
+	}
+}
